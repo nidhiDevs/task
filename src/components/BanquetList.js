@@ -41,7 +41,7 @@ const BanquetList = ({ banquetData }) => {
             placeholder="Search by location"
             value={searchTerm}
             onChange={handleSearch}
-            className="p-2 border border-gray-300 focus:border-gray-400 rounded w-[100%]"
+            className="p-2 border border-gray-300 text-gray-900 focus:border-gray-400 rounded w-[100%]"
           />
         </div>
       </div>
